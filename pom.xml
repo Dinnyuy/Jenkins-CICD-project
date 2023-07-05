@@ -60,7 +60,7 @@
         </configuration>
       </plugin>  
         
-      <reportPlugins>
+      <reporting>
         <plugin>
           <artifactId>maven-checkstyle-plugin</artifactId>
         </plugin>
@@ -90,7 +90,7 @@
           <groupId>org.codehaus.mojo</groupId>
           <artifactId>taglist-maven-plugin</artifactId>
         </plugin>
-      </reportPlugins>
+      </reporting>
         
     </plugins>
 
